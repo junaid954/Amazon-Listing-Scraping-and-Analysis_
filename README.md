@@ -541,22 +541,29 @@ A single product can have multiple variations.
  # Rating Verification.
 ### Notice iphone 11 in the Top Products with a rating of 4.60 
 * First it follows the filter function in the Top products which only displayes those products having rating more than 1000 and Stars greater than or equal to 4.5
+* 
  ![image](https://user-images.githubusercontent.com/61817305/166864822-4e33e5e9-a4e3-4177-931d-af19af245099.png)
  
- ## The reating of Apple Iphone 11 on 17 of April is same as showing in our dashboard
+ ## The ratings of Apple Iphone 11 on 17 of April is same as showing in our dashboard
+ 
 ![image](https://user-images.githubusercontent.com/61817305/166864932-9bae3167-7c97-4e96-89f8-ca2a2949bcde.png)
+
 ![image](https://user-images.githubusercontent.com/61817305/166865042-7e4a8b09-1327-4ab3-9496-671cf1265b07.png)
 
- ## The reating of Apple Iphone 11 on 18 of April is same as showing in our dashboard
+ ## The ratings of Apple Iphone 11 on 18 of April is same as showing in our dashboard
+ 
 ![image](https://user-images.githubusercontent.com/61817305/166865246-3893356a-2bf9-48f4-84d2-84f266cf112c.png)
 
 ![image](https://user-images.githubusercontent.com/61817305/166865284-8458ccd0-b540-4f6a-b73e-e56378bd3144.png)
 
- ## The reating of Apple Iphone 11 on 22 of April is same as showing in our dashboard
+ ## The ratings of Apple Iphone 11 on 22 of April is same as showing in our dashboard
+ 
 ![image](https://user-images.githubusercontent.com/61817305/166865331-21c1767e-0cd9-4bea-968a-0d6e190bb7bb.png)
+
 ![image](https://user-images.githubusercontent.com/61817305/166865384-48980028-a8ae-485d-81d7-71d440663f55.png)
 
- ## The reating of Apple Iphone 11 on 25 of April is same as showing in our dashboard [Apple Iphone 11 went out of stock on 25th of April]
+ ## The ratings of Apple Iphone 11 on 25 of April is same as showing in our dashboard [Apple Iphone 11 went out of stock on 25th of April]
+ 
 ![image](https://user-images.githubusercontent.com/61817305/166865482-19b9713a-0465-4ec8-9406-4b7f430b1832.png)
 
 ![image](https://user-images.githubusercontent.com/61817305/166865507-62e2582a-63c3-4428-a58a-15f710ddae33.png)
