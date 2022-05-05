@@ -28,8 +28,11 @@
     - Next Day Delivery for Prime Customers or not 
 
 * The data is cleaned in Python and Excel, post which further Transformation is done in Power BI.
-* In the last stage we have crated an automated dashboard in Power BI which shows 100% correct results, which can be verified on the Amazon website.
+* In the last stage we have crated an automated dashboard in Power BI which shows 100% correct results, which are verified from the Amazon website.
 * The biggest realization we found in the analysis is that Brands only offer discount if their product is not doing well in comparision to their competition.
+* The absolute best products can sometimes not be the Amazon's Choice.
+* The ratings and Stars are shared in Variation.
+* The ratings fluctuate and do not remain the same.
 
 
 
