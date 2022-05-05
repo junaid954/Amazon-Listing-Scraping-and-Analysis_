@@ -527,6 +527,17 @@ for file in files:
  ![image](https://user-images.githubusercontent.com/61817305/166146006-e84bfb0f-16bd-4743-8110-16cad6041f50.png)
  Notice that MI brand is doing good in TV category and it's offering very little discount compared to its competitor LG which is not doing that good in TV category compared to MI so to attract more buyers and in pursuit of staying at the top it is offering the highest discount.
 
+### Note: The list price showing up in the Dashboard is without variation.
+A single product can have multiple variations.
+* Example: Iphone 11 can have multiple variations as 
+* Iphone 11 (BLACK)
+* Iphone 11 (RED)
+* Iphone 11 (YELLOW)
+* Iphone 11 (PURPLE)
+* and so on, but the list price showing up in the dashboard is just of one product and not all the products combined in the variation.
+* All the products in the analysis are unique, without any variation. (Reason: When products are in variation the have same ratings and stars)
+*
+
  # Rating Verification.
 ### Notice iphone 11 in the Top Products with a rating of 4.60 
 * First it follows the filter function in the Top products which only displayes those products having rating more than 1000 and Stars greater than or equal to 4.5
