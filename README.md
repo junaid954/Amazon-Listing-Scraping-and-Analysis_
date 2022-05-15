@@ -43,7 +43,7 @@ Make GET request to fetch page data
 Parse HTML
 Filter relevalnt Parts
 
-1. To scrape the data from Flipkart website we are going to use the Python package called beautifulsoup.
+1. To scrape the data from Amazon website we are going to use the Python package called beautifulsoup.
 
 To scrape the data we use request librairy. One of the librairy is called 'urllib'
 We wil be making a get request to fetch the data from the website 
